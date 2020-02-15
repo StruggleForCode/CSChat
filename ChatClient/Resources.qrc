@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>Login_background.png</file>
+        <file>img/QQ.png</file>
+        <file>img/head.png</file>
+        <file>img/head1.png</file>
+        <file>img/head2.png</file>
+        <file>img/head3.png</file>
+    </qresource>
+</RCC>
